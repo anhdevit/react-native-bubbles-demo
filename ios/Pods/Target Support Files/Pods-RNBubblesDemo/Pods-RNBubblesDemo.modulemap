@@ -1,0 +1,6 @@
+module Pods_RNBubblesDemo {
+  umbrella header "Pods-RNBubblesDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
